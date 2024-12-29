@@ -19,6 +19,6 @@ This project focuses on **matrix factorization** as a key technique for **collab
   - **`experiments_lgb.py`**: Experiments using **LightGBM** for content-based modeling with movie features.
   - Additional scripts for cross-validation and content-based approaches.
 - **`mlflow_utils.py`**: Utilities for logging experiments and results using MLflow.
-- **`\data_raw` Folder**: Contains raw data.
+- **`/data_raw` Folder**: Contains raw data.
 
 
