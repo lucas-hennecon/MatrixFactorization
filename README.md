@@ -13,7 +13,7 @@ This project explores both **collaborative filtering** and **content-based appro
 - **`utils.py`**: Implementation of **Matrix Factorization**, various initialization techniques, and evaluation metrics.
 - **`generate.py`**: Contains code for inference.
 - **`report.pdf`**: Detailed documentation of the project, experiments, and results.
-  - **`/experiments` Folder**: Includes:
+- **`/experiments` Folder**: Includes:
   - **`experiment_ensemble.py`**: Implementation and evaluation of the hybrid ensemble model.
   - **`experiments_grid_search_train_val.py`**: Scripts for grid search on train-validation splits.
   - **`experiments_lgb.py`**: Experiments using **LightGBM** for content-based modeling with movie features.
