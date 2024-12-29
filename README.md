@@ -1,6 +1,6 @@
 # Collaborative Filtering - Matrix Factorization
 
-This repository contains the work done for the **Data Science Lab Project 1 (IASD)**, in collaboration with **Alexandre Olech** and **Matthieu Neau**, focusing on **Collaborative Filtering** techniques for recommendation systems. 
+This repository contains the work done for the **Data Science Lab Project 1 (IASD)**, in collaboration with **Alexandre Olech** and **Matthieu Neau**, focusing on **Collaborative Filtering** techniques for recommendation systems. For a detailed presentation of the project and results, refer to the `report.pdf` file.
 
 ## 📜 Summary
 This project focuses on **matrix factorization** as a key technique for **collaborative filtering**, complemented by **content-based approaches** to build a robust recommendation system.
